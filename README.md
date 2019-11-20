@@ -3,6 +3,11 @@
 
 ****NOTE: even with using GitDesktop, many errors still kept arising when I tried to commit and push my project files to git, so I decided on a solution of uploading a ZIP of the entire Unity project folder. 
 
+
+
+FOR UNITY PROJECT ZIP FOLDER: https://drive.google.com/open?id=1zYy6GxbhbRB3D5pIRqSxnnNDknq4t_GW 
+
+
 VR EXPERIENCE:
 Intended for HP or residents in similar situations
 Intended use of game is for user to actually decide to not shoot the deer, as opposed to shooting it → experience is designed to have to face this dual-sided [yes or no] decision in the VR world and transfer that same decision to real world policy applications with regards to killing deer. 
