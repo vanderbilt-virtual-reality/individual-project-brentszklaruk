@@ -7,6 +7,8 @@
 
 FOR UNITY PROJECT ZIP FOLDER: https://drive.google.com/open?id=1zYy6GxbhbRB3D5pIRqSxnnNDknq4t_GW 
 
+FOR UNITY PROJECT WINDOWS BUILD: https://drive.google.com/open?id=1SYctF-57jCwbr3aqAvBb0DCOmbE9dVdb
+
 
 VR EXPERIENCE:
 Intended for HP or residents in similar situations
